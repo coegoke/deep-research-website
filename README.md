@@ -1,9 +1,7 @@
 # Deep Research Agent Website
 
-```markdown
 ![Tampilan Website](./image.png)
 ![Tampilan Website 2](./image%20copy.png)
-```
 
 A full-stack web application featuring a Deep Research Agent capable of profound web research, data aggregation, and real-time reasoning display. Built with a modern, responsive UI and a robust Python backend leveraging Model Context Protocol (MCP) and advanced language models.
 
